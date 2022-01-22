@@ -1,1 +1,1 @@
-Still in the process of edditing, will be up within the week.
+Still in the process of editing, will be up within the week.
