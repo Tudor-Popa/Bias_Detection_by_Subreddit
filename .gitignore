@@ -348,3 +348,15 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+Gibberish-Detector/big.txt
+body_counts.csv
+Pre-Trained Models/GoogleNews-vectors-negative300.bin.gz
+to_filter_maybe.csv
+Gibberish-Detector/gibberish-detector.model
+*.csv
+*.bin
+*.model
+*.txt
+Analogy_tests/BATS_3.0/metadata.json
+*.pdf
+Pictures_for_presentation.docx
